@@ -1,10 +1,10 @@
-![large.48133675_20_2(2).jpg.540051572456d0749732eeab38dd39ba.jpg](/assets/large.48133675_20_2(2).jpg.540051572456d0749732eeab38dd39ba.jpg.jpg)# Exercise 09 - Palindromes
+# Exercise 09 - Palindromes
 
 Write a function that determines whether or not a given string is a palindrome.
 
 A palindrome is a string that is spelled the same both forwards and backwards, usually without considering punctuation or word breaks:
 
-### some palindromes
+## some palindromes
 
 - A car, a man, a maraca.
 - Rats live on no evil star.
